@@ -81,13 +81,4 @@ os-scheduling-algorithms/
   └── client/   # React frontend, UI components, pages
 ```
 
----
 
-## Usage
-
-- **Home**: Overview and navigation.
-- **Visualize Algorithms**: Input processes, select an algorithm, and view the Gantt chart and stats.
-- **Compare Performance**: Compare multiple algorithms side by side.
-- **Real-Time Simulator**: Step through scheduling decisions interactively.
-
--------
