@@ -1,4 +1,4 @@
-# OS Scheduling Algorithms Visualizer
+# OS Scheduling Algorithms Visualizer----
 
 A full-stack web application to **visualize, simulate, and compare classic CPU scheduling algorithms**. Designed for students and educators, this tool provides interactive Gantt charts, real-time simulation, and side-by-side algorithm comparison.
 
